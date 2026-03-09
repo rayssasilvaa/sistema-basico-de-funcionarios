@@ -97,25 +97,21 @@ The system represents employees and their information within a program.
 git clone https://github.com/rayssasilvaa/sistema-basico-de-funcionarios.git
 ```
 
-```bash
 2. Enter the project folder:
-```
 
 ```bash
 cd sistema-basico-de-funcionarios
 ```
 
-```bash
 3. Compile the project:
-```
+
 
 ```bash
 javac Main.java
+
 ```
 
-```bash
 4. Run the program:
-```
 
 ```bash
 java Main
